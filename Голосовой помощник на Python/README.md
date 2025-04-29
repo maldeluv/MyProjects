@@ -26,3 +26,7 @@
 - Python 3.x
 - speechrecognition
 - pyttsx3
+  
+### Для видео по работе кода
+
+Пишите тг: @maldeluv
